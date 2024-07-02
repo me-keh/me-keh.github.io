@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /k/niveau-de-vie/
-title: Baisse du niveau de vie des Marocains 2024-2022
+title: Augmentation considérable de la pauvreté au Maroc 2019-2022
 date: 2024-06-24
 ---
 ### TL;DR
