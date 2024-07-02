@@ -6,7 +6,8 @@ date: 2024-06-24
 ---
 ### TL;DR
 
-Le HCP a publié (link) la synthèse des [résultats de l'Enquête Nationale sur le Niveau de Vie des Ménages]('files/synthese_ENNVM-2022.pdf' | relative_url) (ENNVM 2022). Ces dernières montrent globalement trois tendances lourdres:
+Le HCP a publié (link) la synthèse des [résultats de l&#39;Enquête Nationale sur le Niveau de Vie des Ménages]('https://www.hcp.ma/Evolution-du-niveau-de-vie-de-la-population-a-la-lumiere-des-resultats-de-l-Enquete-Nationale-sur-le-Niveau-de-Vie-des_a3900.html') (ENNVM 2022). Ces dernières montrent globalement trois tendances lourdres:
+
 1. **Le Maroc a globalement réussi à éradiquer la forme la plus extrême de pauvreté** (dite pauvreté extrême), passée de 2% en 2014, à moins de 0,7% en 2022. Dans le milieu urbain, elle est même quasiment inexistante (0,04%).
 2. Plus que jamais, **les Marocains ont accès aux services publics de base**. La Pauvreté Multidimensionnelle, qui mesure le niveau de revenu ainsi que l'accès aux services publics de base (éducation, eau potable, assainissement, santé) est passée de 40% en 2001 à 6% en 2022.
 3. **La pauvreté monétaire repart fortement à la hausse depuis 2019**. Le nombre d'individus pauvres ou vulnérables à la pauvreté est passé de 3,2 à 6,2 millions.
@@ -63,9 +64,9 @@ Dans l'ensemble, la pauvreté multidimensionnelle est passée de 40% en 2001 à 
 
 ### 3. La pauvreté monétaire est en hausse
 
-La pauvreté monétaire est un seuil de revenus en dessous duquel les ménages sont à peine capables de subvenir à leur besoins alimentaires et non-alimentaires de base. C'est la somme du seuil de la pauvreté alimentaire et d’une allocation non-alimentaire égale au coût des acquisitions non-alimentaires réalisées par les ménages qui atteignent juste le minimum alimentaire requis. En 2014, il était de 4667 DH par personne et par an en milieu urbain et de 4312 DH par personne et par an en milieu rural. Le HCP n'a pas actualisé ces chiffres depuis.
+La [pauvreté ](https://www.hcp.ma/methodologie-pauvrete-vulnerabilite_r497.html)monétaire est un seuil de revenus en dessous duquel les ménages sont à peine capables de subvenir à leur besoins alimentaires et non-alimentaires de base. C'est la somme du seuil de la pauvreté alimentaire et d'une allocation non-alimentaire égale au coût des acquisitions non-alimentaires réalisées par les ménages qui atteignent juste le minimum alimentaire requis. En 2014, il était de 4667 DH par personne et par an en milieu urbain et de 4312 DH par personne et par an en milieu rural. Le HCP n'a pas actualisé ces chiffres depuis.
 
-Augmenté de l’inflation, le seuil de pauvreté monétaire serait autour de 14 MAD par jour et un individu en 2024.
+Augmenté de l'inflation, le seuil de pauvreté monétaire serait autour de 14 MAD par jour et un individu en 2024.
 
 ![Pauvreté absolue](files/abs_poverty.png){: style="height: 95%; width: 95%; margin-left: 1em; margin-top: 2em;"}
 *Fig3. Evolution du taux de pauvreté absolue, 2001 - 2022*
