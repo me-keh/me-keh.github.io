@@ -6,7 +6,7 @@ date: 2024-06-24
 ---
 ### TL;DR
 
-Le HCP a publié la synthèse des résultats de l'Enquête Nationale sur le Niveau de Vie des Ménages (ENNVM 2022). Ces dernières montrent globalement trois tendances lourdres:
+Le HCP a publié (link) la synthèse des [résultats de l'Enquête Nationale sur le Niveau de Vie des Ménages](files\synthese_ENNVM-2022.pdf) (ENNVM 2022). Ces dernières montrent globalement trois tendances lourdres:
 
 1. **Le Maroc a globalement réussi à éradiquer la forme la plus extrême de pauvreté** (dite pauvreté extrême), passée de 2% en 2014, à moins de 0,7% en 2022. Dans le milieu urbain, elle est même quasiment inexistante (0,04%).
 2. Plus que jamais, **les Marocains ont accès aux services publics de base**. La Pauvreté Multidimensionnelle, qui mesure le niveau de revenu ainsi que l'accès aux services publics de base (éducation, eau potable, assainissement, santé) est passée de 40% en 2001 à 6% en 2022.
@@ -95,7 +95,9 @@ Les résultats de l'ENNVM 2022 confirment que le Maroc a réussi à éradiquer l
 En plus de continuer les grands programmes d'amélioraton d'accès aux services publics de base, le Maroc doit en urgence mettre en place des politiques de lutte contre le chômage, la précarité et l'inflation. Sans création massive d'emplois, les politiques de redistribution de revenus ne suffiront pas à assurer des conditions de vie décentes à nos concitoyens.
 
 ---
+
 (*) Les enquêtes du HCP:
+
 - ENCDM : l'Enquête Nationale sur la Consommation et les Dépenses des Ménages
 - ENNVM : Enquête Nationale sur le Niveau de Vie des Ménages
 - ENSRM : Enquête Nationale sur les Sources de Revenus des Ménages
