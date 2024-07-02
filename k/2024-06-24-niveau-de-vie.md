@@ -38,7 +38,7 @@ Ces pratiques du HCP nous obligent à nous contenter d'une analyse approximative
 
 Les chiffres de l'ENNVM 2022 confirment ceux des enquêtes précédentes: le Maroc a vaincu les formes les plus extrêmes de la pauvreté. Celle-ci est devenue anecdotique dans le milieu rural, et difficilement mesurable dans le milieu urbain.
 
-![Pauvreté extrême](files/extreme_poverty.png){: style="height: 65%; width: 65%; margin-left: 1em; margin-top: 2em;"}
+![Pauvreté extrême](files/extreme_poverty.png){: style="height: 95%; width: 95%; margin-left: 1em; margin-top: 2em;"}
 *Fig1. Evolution du taux de pauvreté extrême, 2014 - 2022*
 
 L'évolution positive du taux de pauvreté extrême entre 2019 et 2022 pourrait être négligeable si l'on prend en considération la taille de l'échantillon de l'enquête de 2019 (3290 ménages).
@@ -59,7 +59,8 @@ Bien que le HCP ne publie pas les données sous-jacentes, l'amélioration de l'a
 
 Dans l'ensemble, la pauvreté multidimensionnelle est passée de 40% en 2001 à 6% en 2022, portée essentiellement par l'amélioration de l'accès aux services publics de base dans les zones rurales.
 
-[fig]
+![Pauvreté Multidimensionnelle](files/multidimensional_poverty.png){: style="height: 95%; width: 95%; margin-left: 1em; margin-top: 2em;"}
+*Fig2. Evolution du taux de pauvreté Multidimensionelle, 2001 - 2022*
 
 ### 3. La pauvreté monétaire est en hausse
 
@@ -67,20 +68,25 @@ La pauvreté monétaire est un seuil de revenus en dessous duquel les ménages s
 
 Augmenté de l’inflation, le seuil de pauvreté monétaire serait autour de 14 MAD par jour et un individu en 2024.
 
-![Pauvreté absolue](files/abs_poverty.png){: style="height: 65%; width: 65%; margin-left: 1em; margin-top: 2em;"}
+![Pauvreté absolue](files/abs_poverty.png){: style="height: 95%; width: 95%; margin-left: 1em; margin-top: 2em;"}
 *Fig3. Evolution du taux de pauvreté absolue, 2001 - 2022*
 
 En plus de la pauvreté monétaire, un autre indicateur permet mesurer le nombre de ménages qui ne sont pas pauvres stricto sensu, mais dont les niveaux de revenus les situent à la limite de la pauvreté. Ces ménages sont dits vulnérables à la pauvreté, c'est-à-dire que les revenus des individus qui les composent sont situés à moins de 1.5 fois le seuil de pauvreté monétaire. Ce seuil serait de 21 MAD par jour et par individu en 2024.
 
 Les taux de pauvreté et de vulnérabilité ont baissé de manière continue entre 2001 et 2019, avant de rebondir entre 2019 et 2022. Selon les milieu, ces taux ont retrouvé leurs niveaux de 2014, effaçant ainsi une dizaine d'années de progrès potentiels dans la lutte contre la pauvreté.
 
-![Vulnérabilité](files/vulnerability_rate.png){: style="height: 65%; width: 65%; margin-left: 1em; margin-top: 2em;"}
+![Vulnérabilité](files/vulnerability_rate.png){: style="height: 95%; width: 95%; margin-left: 1em; margin-top: 2em;"}
 *Fig4. Evolution du taux de vulnérabilité, 2001 - 2022*
 
 En termes absolus, le nombre d'individus pauvres ou vulnérables à la pauvreté est passé de 3,2 à 6,2 millions entre 2019 et 2022. Ainsi, 20% de la population marocaine est pauvre, ou se risque de le devenir à tout moment. Il est églament important de noter les seuils monétaires de pauvreté sont très bas : avec une taille moyenne de 4,6 personnes par ménage, le seuil de pauvreté monétaire est de 2900 MAD par ménage et par mois.
 
-![En millions](files/poverty_millions.png){: style="height: 65%; width: 65%; margin-left: 1em; margin-top: 2em;"}
+![En millions](files/poverty_millions.png){: style="height: 80%; width: 80%; margin-left: 3em; margin-top: 2em;"}
 *Fig5. Evolution du nombre de pauvres et de vulnérables, 2019 - 2022*
+
+Cette hausse de la pauvreté monétaire et de la vulnérabilité, conjuguée à la hausse de l'inflation a un impact direct sur la composition du panier ménager moyen. Ainsi, la part consacrée à l'alimentation est passée de 37.0% en 2014 à 38.2% en 2022. L'accroissement de la part de l'alimentation dans le panier ménager est un indicateur de la baisse du niveau de vie des ménages.
+
+![Panier ménager](files/household_expenditure.png){: style="height: 95%; width: 95%; margin-left: 1em; margin-top: 2em;"}
+*Fig6. Evolution de la structure de la dépense des ménages, 2014 - 2022*
 
 ### Conclusion
 
