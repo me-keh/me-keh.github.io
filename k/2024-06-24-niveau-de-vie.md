@@ -14,7 +14,7 @@ Le HCP a publié la synthèse des résultats de l'Enquête Nationale sur le Nive
 
 ### Contexte : des données rares et obsolètes
 
-Les chiffres discutés ici sont issus de l'Enquête Nationale sur le Niveau des Ménages (ENNVM-2022), que le HCP mène pour la première fois depuis 2007. Les données de comparaisons historiques sont issues de l'ENCDM* en 2001 et 2014, de l'ENNVM en 2007 et 2022, et de l'ENSRM** en 2019.
+Les chiffres discutés ici sont issus de l'Enquête Nationale sur le Niveau des Ménages (ENNVM-2022), que le HCP mène pour la première fois depuis 2007. Les données de comparaisons historiques sont issues de l'ENCDM en 2001 et 2014, de l'ENNVM en 2007 et 2022, et de l'ENSRM* en 2019.
 
 | Année | ENNVM | ENCDM | ENSRM |
 | :----: | :---: | :---: | :---: |
@@ -80,7 +80,7 @@ Les taux de pauvreté et de vulnérabilité ont baissé de manière continue ent
 
 En termes absolus, le nombre d'individus pauvres ou vulnérables à la pauvreté est passé de 3,2 à 6,2 millions entre 2019 et 2022. Ainsi, 20% de la population marocaine est pauvre, ou se risque de le devenir à tout moment. Il est églament important de noter les seuils monétaires de pauvreté sont très bas : avec une taille moyenne de 4,6 personnes par ménage, le seuil de pauvreté monétaire est de 2900 MAD par ménage et par mois.
 
-![En millions](files/poverty_millions.png){: style="height: 80%; width: 80%; margin-left: 3em; margin-top: 2em;"}
+![En millions](files/poverty_millions.png){: style="height: 80%; width: 80%; margin-left: 5em; margin-top: 2em;"}
 *Fig5. Evolution du nombre de pauvres et de vulnérables, 2019 - 2022*
 
 Cette hausse de la pauvreté monétaire et de la vulnérabilité, conjuguée à la hausse de l'inflation a un impact direct sur la composition du panier ménager moyen. Ainsi, la part consacrée à l'alimentation est passée de 37.0% en 2014 à 38.2% en 2022. L'accroissement de la part de l'alimentation dans le panier ménager est un indicateur de la baisse du niveau de vie des ménages.
@@ -90,8 +90,12 @@ Cette hausse de la pauvreté monétaire et de la vulnérabilité, conjuguée à 
 
 ### Conclusion
 
-Les résultats de l'ENNVM 2022 montrent que le Maroc a réussi à éradiquer la pauvreté extrême et à améliorer l'accès aux services publics de base. Cependant, la pauvreté monétaire est en hausse depuis 2019, et le nombre de pauvres et de vulnérables a doublé en trois ans.
+Les résultats de l'ENNVM 2022 confirment que le Maroc a réussi à éradiquer la pauvreté extrême et à améliorer l'accès aux services publics de base. Cependant, la pauvreté monétaire est en hausse depuis 2019, et le nombre de pauvres et de vulnérables a doublé en trois ans.
 
 En plus de continuer les grands programmes d'amélioraton d'accès aux services publics de base, le Maroc doit en urgence mettre en place des politiques de lutte contre le chômage, la précarité et l'inflation. Sans création massive d'emplois, les politiques de redistribution de revenus ne suffiront pas à assurer des conditions de vie décentes à nos concitoyens.
 
 ---
+(*) Les enquêtes du HCP:
+- ENCDM : l'Enquête Nationale sur la Consommation et les Dépenses des Ménages
+- ENNVM : Enquête Nationale sur le Niveau de Vie des Ménages
+- ENSRM : Enquête Nationale sur les Sources de Revenus des Ménages
